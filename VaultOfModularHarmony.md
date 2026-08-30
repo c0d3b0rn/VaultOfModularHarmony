@@ -1,4 +1,3 @@
-```markdown
 # Vault of Modular Harmony
 
 **Difficulty:** Medium
