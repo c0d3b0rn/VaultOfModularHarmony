@@ -29,4 +29,4 @@ Print a single integer representing the maximum length of a valid contiguous seq
 ```
 **Output**
 ```text
-5
+6
